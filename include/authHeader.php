@@ -1,5 +1,6 @@
 <?php
 session_start();
+unset($_SESSION['errors']);
 ?>
 <!DOCTYPE html>
 <html lang="en">
