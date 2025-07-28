@@ -62,7 +62,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="index.html#book-a-table">Book a Table</a>
+      <a class="btn-getstarted" href="book-a-table.php">Book a Table</a>
 
     </div>
   </header>
