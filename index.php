@@ -3,7 +3,7 @@ include_once "./include/frontendHeader.php";
 ?>
 
 <!-- Hero Section -->
-<section id="hero" class="hero section light-background">
+  <section id="hero" class="hero section light-background">
 
   <div class="container">
     <div class="row gy-4 justify-content-center justify-content-lg-between">
@@ -12,7 +12,7 @@ include_once "./include/frontendHeader.php";
         <p data-aos="fade-up" data-aos-delay="100">We are team of talented designers making websites with Bootstrap</p>
         <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
           <a href="book-a-table.php" class="btn-get-started">Book a Table</a>
-          <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+          <a href="#" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
         </div>
       </div>
       <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
@@ -21,10 +21,11 @@ include_once "./include/frontendHeader.php";
     </div>
   </div>
 
-</section><!-- /Hero Section -->
+  </section>
+<!-- /Hero Section -->
 
 <!-- About Section -->
-<section id="about" class="about section">
+  <section id="about" class="about section">
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
@@ -68,10 +69,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /About Section -->
+  </section>
+<!-- /About Section -->
 
 <!-- Why Us Section -->
-<section id="why-us" class="why-us section light-background">
+  <section id="why-us" class="why-us section light-background">
 
   <div class="container">
 
@@ -124,10 +126,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /Why Us Section -->
+  </section>
+<!-- /Why Us Section -->
 
 <!-- Stats Section -->
-<section id="stats" class="stats section dark-background">
+  <section id="stats" class="stats section dark-background">
 
   <img src="assets/img/stats-bg.jpg" alt="" data-aos="fade-in">
 
@@ -167,10 +170,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /Stats Section -->
+  </section>
+<!-- /Stats Section -->
 
 <!-- Menu Section -->
-<section id="menu" class="menu section">
+  <section id="menu" class="menu section">
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
@@ -526,10 +530,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /Menu Section -->
+  </section>
+<!-- /Menu Section -->
 
 <!-- Testimonials Section -->
-<section id="testimonials" class="testimonials section light-background">
+  <section id="testimonials" class="testimonials section light-background">
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
@@ -659,10 +664,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /Testimonials Section -->
+  </section>
+<!-- /Testimonials Section -->
 
 <!-- Events Section -->
-<section id="events" class="events section">
+  <section id="events" class="events section">
 
   <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
 
@@ -732,10 +738,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /Events Section -->
+  </section>
+<!-- /Events Section -->
 
 <!-- Chefs Section -->
-<section id="chefs" class="chefs section">
+  <section id="chefs" class="chefs section">
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
@@ -808,10 +815,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /Chefs Section -->
+  </section>
+<!-- /Chefs Section -->
 
 <!-- Book A Table Section -->
-<section id="book-a-table" class="book-a-table section">
+  <section id="book-a-table" class="book-a-table section">
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
@@ -865,11 +873,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section>
+  </section>
 <!-- /Book A Table Section -->
 
 <!-- Gallery Section -->
-<section id="gallery" class="gallery section light-background">
+  <section id="gallery" class="gallery section light-background">
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
@@ -925,10 +933,11 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /Gallery Section -->
+  </section>
+<!-- /Gallery Section -->
 
 <!-- Contact Section -->
-<section id="contact" class="contact section">
+  <section id="contact" class="contact section">
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
@@ -1018,7 +1027,8 @@ include_once "./include/frontendHeader.php";
 
   </div>
 
-</section><!-- /Contact Section -->
+  </section>
+<!-- /Contact Section -->
 
 <?php
 include_once "./include/frontendFooter.php";
